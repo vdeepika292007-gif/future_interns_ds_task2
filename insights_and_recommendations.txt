@@ -1,0 +1,24 @@
+CUSTOMER RETENTION & CHURN ANALYSIS
+==========================================
+Total customers: 7,043
+Churned customers: 1,869 (26.54%)
+Retained customers: 5,174 (73.46%)
+Average tenure: 32.37 months
+Average monthly charges: 64.76
+
+HIGHEST CHURN-RATE SEGMENTS
+Contract: Month-to-month — 42.71% (1655/3875 customers)
+InternetService: Fiber optic — 41.89% (1297/3096 customers)
+PaymentMethod: Electronic check — 45.29% (1071/2365 customers)
+TenureGroup: 0-12 months — 47.44% (1037/2186 customers)
+
+RECOMMENDATIONS TO TEST
+1. Prioritize outreach to segments with above-average churn.
+2. Test onboarding and early support for newer customers.
+3. Review support and online-security experiences.
+4. Test suitable plan offers for month-to-month customers.
+
+LIMITATIONS
+The dataset does not record explicit cancellation reasons or signup dates.
+Segment patterns do not prove causation.
+TotalCharges represents historical billing, not verified future lifetime value.

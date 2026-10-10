@@ -1,0 +1,11 @@
+Metric,Value
+Total Customers,7043.0
+Churned Customers,1869.0
+Retained Customers,5174.0
+Churn Rate,0.2653698707936959
+Retention Rate,0.7346301292063041
+Average Tenure (Months),32.37114865824223
+Average Monthly Charges,64.76169246059918
+Average Historical Charges,2279.7343035638223
+Rows Before Cleaning,7043.0
+Duplicate Rows Found,0.0
